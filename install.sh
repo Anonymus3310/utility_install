@@ -1,4 +1,4 @@
-kg install nano git python python2 php openssh curl lolcat ruby
+pkg install nano git python python2 php openssh curl lolcat ruby nmap
 git clone https://github.com/TechnicalMujeeb/tmvenom
 git clone https://github.com/thelinuxchoice/shellphish
 git clone git clone https://github.com/noob-hackers/grabcam
