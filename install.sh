@@ -1,5 +1,5 @@
 cd ~
-apt-get install nano git python python2 php openssh curl lolcat ruby nmap
+apt-get install nano git python python2 php openssh curl lolcat ruby nmap -y
 git clone https://github.com/TechnicalMujeeb/tmvenom
 git clone https://github.com/thelinuxchoice/shellphish
 git clone git clone https://github.com/noob-hackers/grabcam
